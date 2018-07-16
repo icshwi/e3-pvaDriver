@@ -1,0 +1,4 @@
+[submodule "pvaDriver"]
+	path = pvaDriver
+	url = https://github.com/areaDetector/pvaDriver
+	ignore = all
